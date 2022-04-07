@@ -1,0 +1,16 @@
+C:\Users\Grinya\source\repos\Loops\Loops\bin\Debug\net5.0\Loops.exe
+C:\Users\Grinya\source\repos\Loops\Loops\bin\Debug\net5.0\Loops.deps.json
+C:\Users\Grinya\source\repos\Loops\Loops\bin\Debug\net5.0\Loops.runtimeconfig.json
+C:\Users\Grinya\source\repos\Loops\Loops\bin\Debug\net5.0\Loops.runtimeconfig.dev.json
+C:\Users\Grinya\source\repos\Loops\Loops\bin\Debug\net5.0\Loops.dll
+C:\Users\Grinya\source\repos\Loops\Loops\bin\Debug\net5.0\ref\Loops.dll
+C:\Users\Grinya\source\repos\Loops\Loops\bin\Debug\net5.0\Loops.pdb
+C:\Users\Grinya\source\repos\Loops\Loops\obj\Debug\net5.0\Loops.csproj.AssemblyReference.cache
+C:\Users\Grinya\source\repos\Loops\Loops\obj\Debug\net5.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grinya\source\repos\Loops\Loops\obj\Debug\net5.0\Loops.AssemblyInfoInputs.cache
+C:\Users\Grinya\source\repos\Loops\Loops\obj\Debug\net5.0\Loops.AssemblyInfo.cs
+C:\Users\Grinya\source\repos\Loops\Loops\obj\Debug\net5.0\Loops.csproj.CoreCompileInputs.cache
+C:\Users\Grinya\source\repos\Loops\Loops\obj\Debug\net5.0\Loops.dll
+C:\Users\Grinya\source\repos\Loops\Loops\obj\Debug\net5.0\ref\Loops.dll
+C:\Users\Grinya\source\repos\Loops\Loops\obj\Debug\net5.0\Loops.pdb
+C:\Users\Grinya\source\repos\Loops\Loops\obj\Debug\net5.0\Loops.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Grinya\source\repos\Loops\CalculateSumlnLoop\bin\Debug\net5.0\CalculateSumlnLoop.exe
+C:\Users\Grinya\source\repos\Loops\CalculateSumlnLoop\bin\Debug\net5.0\CalculateSumlnLoop.deps.json
+C:\Users\Grinya\source\repos\Loops\CalculateSumlnLoop\bin\Debug\net5.0\CalculateSumlnLoop.runtimeconfig.json
+C:\Users\Grinya\source\repos\Loops\CalculateSumlnLoop\bin\Debug\net5.0\CalculateSumlnLoop.runtimeconfig.dev.json
+C:\Users\Grinya\source\repos\Loops\CalculateSumlnLoop\bin\Debug\net5.0\CalculateSumlnLoop.dll
+C:\Users\Grinya\source\repos\Loops\CalculateSumlnLoop\bin\Debug\net5.0\ref\CalculateSumlnLoop.dll
+C:\Users\Grinya\source\repos\Loops\CalculateSumlnLoop\bin\Debug\net5.0\CalculateSumlnLoop.pdb
+C:\Users\Grinya\source\repos\Loops\CalculateSumlnLoop\obj\Debug\net5.0\CalculateSumlnLoop.csproj.AssemblyReference.cache
+C:\Users\Grinya\source\repos\Loops\CalculateSumlnLoop\obj\Debug\net5.0\CalculateSumlnLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grinya\source\repos\Loops\CalculateSumlnLoop\obj\Debug\net5.0\CalculateSumlnLoop.AssemblyInfoInputs.cache
+C:\Users\Grinya\source\repos\Loops\CalculateSumlnLoop\obj\Debug\net5.0\CalculateSumlnLoop.AssemblyInfo.cs
+C:\Users\Grinya\source\repos\Loops\CalculateSumlnLoop\obj\Debug\net5.0\CalculateSumlnLoop.csproj.CoreCompileInputs.cache
+C:\Users\Grinya\source\repos\Loops\CalculateSumlnLoop\obj\Debug\net5.0\CalculateSumlnLoop.dll
+C:\Users\Grinya\source\repos\Loops\CalculateSumlnLoop\obj\Debug\net5.0\ref\CalculateSumlnLoop.dll
+C:\Users\Grinya\source\repos\Loops\CalculateSumlnLoop\obj\Debug\net5.0\CalculateSumlnLoop.pdb
+C:\Users\Grinya\source\repos\Loops\CalculateSumlnLoop\obj\Debug\net5.0\CalculateSumlnLoop.genruntimeconfig.cache

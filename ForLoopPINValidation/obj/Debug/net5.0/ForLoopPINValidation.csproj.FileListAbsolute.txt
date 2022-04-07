@@ -1,0 +1,15 @@
+C:\Users\Grinya\source\repos\Loops\ForLoopPINValidation\bin\Debug\net5.0\ForLoopPINValidation.exe
+C:\Users\Grinya\source\repos\Loops\ForLoopPINValidation\bin\Debug\net5.0\ForLoopPINValidation.deps.json
+C:\Users\Grinya\source\repos\Loops\ForLoopPINValidation\bin\Debug\net5.0\ForLoopPINValidation.runtimeconfig.json
+C:\Users\Grinya\source\repos\Loops\ForLoopPINValidation\bin\Debug\net5.0\ForLoopPINValidation.runtimeconfig.dev.json
+C:\Users\Grinya\source\repos\Loops\ForLoopPINValidation\bin\Debug\net5.0\ForLoopPINValidation.dll
+C:\Users\Grinya\source\repos\Loops\ForLoopPINValidation\bin\Debug\net5.0\ref\ForLoopPINValidation.dll
+C:\Users\Grinya\source\repos\Loops\ForLoopPINValidation\bin\Debug\net5.0\ForLoopPINValidation.pdb
+C:\Users\Grinya\source\repos\Loops\ForLoopPINValidation\obj\Debug\net5.0\ForLoopPINValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grinya\source\repos\Loops\ForLoopPINValidation\obj\Debug\net5.0\ForLoopPINValidation.AssemblyInfoInputs.cache
+C:\Users\Grinya\source\repos\Loops\ForLoopPINValidation\obj\Debug\net5.0\ForLoopPINValidation.AssemblyInfo.cs
+C:\Users\Grinya\source\repos\Loops\ForLoopPINValidation\obj\Debug\net5.0\ForLoopPINValidation.csproj.CoreCompileInputs.cache
+C:\Users\Grinya\source\repos\Loops\ForLoopPINValidation\obj\Debug\net5.0\ForLoopPINValidation.dll
+C:\Users\Grinya\source\repos\Loops\ForLoopPINValidation\obj\Debug\net5.0\ref\ForLoopPINValidation.dll
+C:\Users\Grinya\source\repos\Loops\ForLoopPINValidation\obj\Debug\net5.0\ForLoopPINValidation.pdb
+C:\Users\Grinya\source\repos\Loops\ForLoopPINValidation\obj\Debug\net5.0\ForLoopPINValidation.genruntimeconfig.cache
